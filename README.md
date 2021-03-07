@@ -28,7 +28,7 @@ AutoApi系列：~~AutoApi(v1.0)~~、~~AutoApiSecret(v2.0)~~、~~AutoApiSR(v3.0)~
        * 子号 ———— 可选 （不清楚微软是否会统计子号的活跃度，想弄可选择性补充运行）    
    * rclone软件，[下载地址 rclone.org ](https://downloads.rclone.org/v1.53.3/rclone-v1.53.3-windows-amd64.zip)，(windows 64）
    * 教程图片看不到请科学上网
-   
+
 * 步骤大纲：
    * 微软方面的准备工作 （获取应用id、密码、密钥）
    * GIHTHUB方面的准备工作  （获取Github密钥、设置secret）
